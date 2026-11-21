@@ -11,7 +11,7 @@ El sistema consta de dos áreas principales:
 
 ## Equipo de desarrollo
 - **[Juan Manuel Corchado Monje]** (`@JuanCorchaMon`) — Product Owner y desarrollo
-- **[José María Fernández Salcedo]** (`@usuario-github-2`) — Scrum Master y desarrollo
+- **[José María Fernández Salcedo]** (`@JosemaFersal`) — Scrum Master y desarrollo
 
 ## Documentación
 Toda la documentación del proyecto se encuentra versionada en formato Markdown dentro de la carpeta [`docs/`](docs/):

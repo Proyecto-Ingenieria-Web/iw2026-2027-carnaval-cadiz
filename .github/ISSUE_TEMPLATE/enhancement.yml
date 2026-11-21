@@ -1,0 +1,29 @@
+name: Nueva funcionalidad (Historia de usuario)
+description: Proponer una historia de usuario o mejora funcional acordada con el cliente
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: historia
+    attributes:
+      label: Historia de usuario
+      description: Describe la necesidad desde el punto de vista del rol correspondiente.
+      placeholder: "Como [rol de usuario], quiero [acción o funcionalidad] para [beneficio o valor]."
+    validations:
+      required: true
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Criterios de aceptación
+      description: Lista las condiciones concretas que debe cumplir esta funcionalidad para considerarse terminada.
+      placeholder: |
+        - [ ] Criterio 1
+        - [ ] Criterio 2
+    validations:
+      required: true
+  - type: textarea
+    id: notas
+    attributes:
+      label: Reglas de negocio / Notas adicionales
+      description: Referencias a acuerdos con el cliente o detalles técnicos relevantes.
+    validations:
+      required: false

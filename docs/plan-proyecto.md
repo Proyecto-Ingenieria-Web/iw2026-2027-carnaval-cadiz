@@ -14,7 +14,7 @@ Los integrantes del equipo comparten la responsabilidad técnica de análisis, d
 | Miembro | Usuario GitHub | Rol Scrum | Responsabilidades principales |
 | :--- | :--- | :--- | :--- |
 | **Juan Manuel Corchado Monje** | `@JuanCorchaMon` | **Product Owner** y Desarrollo | Interlocución con el cliente (profesor), validación de requisitos, gestión y priorización del *Product Backlog*, y desarrollo de historias de usuario. |
-| **José María Fernández Salcedo** | `@[usuario-josema]` | **Scrum Master** y Desarrollo | Facilitación de eventos Scrum, supervisión del cumplimiento del proceso y de la *Definition of Done*, eliminación de impedimentos y desarrollo de historias de usuario. |
+| **José María Fernández Salcedo** | `@JosemaFersal` | **Scrum Master** y Desarrollo | Facilitación de eventos Scrum, supervisión del cumplimiento del proceso y de la *Definition of Done*, eliminación de impedimentos y desarrollo de historias de usuario. |
 
 ---
 
